@@ -1,6 +1,8 @@
-public class ReverseArray{
+public class ReverseArray{//
     //just type main
     public static void main(String[] args) {
-        System.out.println("hi there !!!");//syso
+        //System.out.println("hi there !!!");//syso
+        
     }
+
 }
